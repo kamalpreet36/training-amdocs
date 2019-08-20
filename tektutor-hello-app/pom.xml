@@ -200,7 +200,6 @@
                     </execution> 
               </executions>  
             </plugin>
-             </plugin>
             <plugin>
               <groupId>org.apach.maven.plugins</groupId>
               <artifactId>maven-install-plugin</artifactId>
